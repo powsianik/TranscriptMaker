@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranscriptMaker", "TranscriptMaker\TranscriptMaker.csproj", "{7D2D8BB5-1C46-48EF-83CD-4B16868BA6F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D2D8BB5-1C46-48EF-83CD-4B16868BA6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2D8BB5-1C46-48EF-83CD-4B16868BA6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2D8BB5-1C46-48EF-83CD-4B16868BA6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2D8BB5-1C46-48EF-83CD-4B16868BA6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
